@@ -26,3 +26,4 @@ add_theme_support('featured-content');
 add_theme_support('post-thumbnails');
 
 add_theme_support( 'post-formats', array( 'aside', 'gallery', 'image', 'video' ) );
+add_theme_support('html5', array('search-form') );
