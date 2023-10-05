@@ -1,0 +1,6 @@
+Oct 05 2023 06:35:40
+{"Number":2,"Message":"rmdir(D:\\laragon\\www\\Custom-Theme-WordPress\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\4sicjg89g9a3): Directory not empty","File":"D:\\laragon\\www\\Custom-Theme-WordPress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":72}
+
+Oct 05 2023 06:35:41
+{"Number":2,"Message":"filesize(): stat failed for D:\\laragon\\www\\Custom-Theme-WordPress\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\4sicjg89g9a3\\custom-theme-wordpress.test-20231005-063515-k1m3kp.wpress","File":"D:\\laragon\\www\\Custom-Theme-WordPress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-archiver.php","Line":231}
+
